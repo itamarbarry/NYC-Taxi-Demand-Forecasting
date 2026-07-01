@@ -1,0 +1,11 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Ignore outputs directory for language statistics
+outputs/** linguist-generated
+
+# Exclude Jupyter Notebooks from language statistics
+*.ipynb linguist-documentation
+
+# Exclude data directory from language statistics
+data/** linguist-vendored
