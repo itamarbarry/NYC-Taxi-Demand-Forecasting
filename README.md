@@ -1,6 +1,6 @@
 # NYC Taxi Demand Forecasting & Drift Monitoring
 
-This project was completed as part of the **"Data Science Methods and Applications"** B.Sc. course in the **Industrial Engineering & Management Department** at **Ben-Gurion University**.
+This project was completed as part of the **"Data Science Methods and Applications"** B.Sc. course in the **Industrial Engineering & Management Department** at **Ben-Gurion University**, receiving a grade of **94/100**.
 
 It presents an end-to-end machine learning pipeline for forecasting NYC yellow taxi demand. It features robust data validation, feature engineering, automated model tuning, and an advanced drift detection and mitigation system to handle non-stationary data distributions.
 
