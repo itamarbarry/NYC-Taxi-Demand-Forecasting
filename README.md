@@ -100,6 +100,13 @@ During the iterative development steps (steps 3–6 & tuning part of step 7), th
 
 ---
 
+## 📄 Notebooks & Project Documents
+- `Project Report.pdf`: The comprehensive project report detailing the implementation, results, and analysis.
+- `EDA.ipynb`: Exploratory Data Analysis, smart rounding logic, and geographic demand patterns.
+- `Assignment Instructions.pdf`: Detailed project requirements and pedagogical context.
+
+---
+
 ## ⚙️ How to Run
 
 ### Execute Full Pipeline Locally
@@ -115,11 +122,6 @@ A CI/CD workflow is provided in `.github/workflows/pipeline.yml`. It is automati
 
 > [!IMPORTANT]
 > For the GitHub Actions workflow (`pipeline.yml`) to run successfully, you must add your Weights & Biases API key as a Repository Secret named `WANDB_API_KEY` (go to Settings > Secrets and variables > Actions > New repository secret).
-
-
-### Interactive Analysis
-- `EDA.ipynb`: Exploratory Data Analysis, smart rounding logic, and geographic demand patterns.
-- `Assignment Instructions.pdf`: Detailed project requirements and pedagogical context.
 
 ---
 
